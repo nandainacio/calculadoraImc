@@ -1,0 +1,16 @@
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.exe
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.deps.json
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.runtimeconfig.json
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.runtimeconfig.dev.json
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.dll
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\ref\CalculadoraIMC.dll
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\net5.0\CalculadoraIMC.pdb
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.csprojAssemblyReference.cache
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.dll
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\ref\CalculadoraIMC.dll
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.pdb
+C:\Users\fp_in\source\repos\CalculadoraIMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\net5.0\CalculadoraIMC.genruntimeconfig.cache
